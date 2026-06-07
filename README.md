@@ -29,3 +29,13 @@ Fitxer disponible:
 ## Ús dels arxius
 
 Els arxius inclosos en aquest repositori formen part del material annex del Treball de Fi de Grau i es proporcionen per facilitar la consulta, la traçabilitat i la reproduïbilitat de l’anàlisi filogenètica.
+
+## Fonts originals
+
+Els materials inclosos en aquest repositori provenen de fonts bibliogràfiques prèviament publicades i s’utilitzen com a material de consulta per al desenvolupament de l’anàlisi filogenètica del TFG.
+
+- La matriu filogenètica en format NEXUS correspon a la versió publicada a Della Giustina et al. (2025).
+- La descripció dels 189 caràcters morfològics correspon al document suplementari S1 Supporting Information de Narváez et al. (2015).
+
+Aquest repositori té únicament la funció de facilitar l’accés als arxius suplementaris emprats en el treball.
+
